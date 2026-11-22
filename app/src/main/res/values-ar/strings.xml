@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">سجل المستفيدين</string>
+    <string name="search_hint">بحث بالاسم أو الرقم الوطني أو الهاتف أو الرمز…</string>
+    <string name="add_beneficiary">إضافة مستفيد</string>
+    <string name="edit_beneficiary">تعديل بيانات المستفيد</string>
+    <string name="import_excel">استيراد Excel</string>
+    <string name="export_excel">تصدير Excel</string>
+    <string name="total_beneficiaries">إجمالي المستفيدين</string>
+    <string name="total_transfers">إجمالي التحويلات</string>
+    <string name="empty_title">لا توجد سجلات مستفيدين</string>
+    <string name="empty_subtitle">أضف مستفيداً جديداً أو استورد ملف Excel (.xlsx) للبدء</string>
+    <string name="no_search_results">لا توجد نتائج مطابقة للبحث الحالي</string>
+    <string name="save">حفظ</string>
+    <string name="cancel">إلغاء</string>
+    <string name="delete">حذف</string>
+    <string name="confirm_delete_title">تأكيد الحذف</string>
+    <string name="confirm_delete_message">هل تريد حذف سجل المستفيد %1$s نهائياً؟</string>
+</resources>
